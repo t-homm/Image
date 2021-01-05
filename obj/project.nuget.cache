@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "Gg7GhpVX+TZZCrtqxWw+s6XNnBBn5aE3k+yXcDRUBTdWMGhgac0Q58eg05mjYGOGIjFPiiE28sCxr+j1nRcE+w==",
+  "success": true,
+  "projectFilePath": "/Users/t_honma/Image/Image.csproj",
+  "expectedPackageFiles": [
+    "/Users/t_honma/.nuget/packages/azure.core/1.6.0/azure.core.1.6.0.nupkg.sha512",
+    "/Users/t_honma/.nuget/packages/azure.storage.blobs/12.7.0/azure.storage.blobs.12.7.0.nupkg.sha512",
+    "/Users/t_honma/.nuget/packages/azure.storage.common/12.6.0/azure.storage.common.12.6.0.nupkg.sha512",
+    "/Users/t_honma/.nuget/packages/microsoft.bcl.asyncinterfaces/1.0.0/microsoft.bcl.asyncinterfaces.1.0.0.nupkg.sha512",
+    "/Users/t_honma/.nuget/packages/system.buffers/4.5.0/system.buffers.4.5.0.nupkg.sha512",
+    "/Users/t_honma/.nuget/packages/system.diagnostics.diagnosticsource/4.6.0/system.diagnostics.diagnosticsource.4.6.0.nupkg.sha512",
+    "/Users/t_honma/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512",
+    "/Users/t_honma/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/t_honma/.nuget/packages/system.text.json/4.6.0/system.text.json.4.6.0.nupkg.sha512",
+    "/Users/t_honma/.nuget/packages/system.threading.tasks.extensions/4.5.2/system.threading.tasks.extensions.4.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}

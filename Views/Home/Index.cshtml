@@ -1,0 +1,13 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <ul>
+        @foreach (var item in ViewData["list"] as IList<string>)
+        {
+            @* <li>@item</li> *@
+            <li><img src="@item"></li>
+        }
+    </ul>
+</div>
